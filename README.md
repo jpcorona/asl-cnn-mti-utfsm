@@ -5,8 +5,7 @@ MVP funcional basado en el dataset de imágenes de lenguaje de señas (A–Z). I
 - `train_mvp.py`: descarga el dataset, entrena un modelo ligero (5 epochs) y guarda `artifacts/model.h5` y `artifacts/labels.json`.
 - `app.py`: aplicación Streamlit para clasificar imágenes cargadas por el usuario.
 - `requirements.txt`: dependencias mínimas.
-
-## Dataset utilizado: https://zenodo.org/records/14635573
+-  `Dataset utilizado`: https://zenodo.org/records/14635573
 
 ## Cómo correr (local)
 1) Crear venv y activar (opcional):
